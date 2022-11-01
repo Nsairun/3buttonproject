@@ -1,5 +1,4 @@
 body {
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -7,19 +6,15 @@ body {
   height: 100vh;
 }
 button {
-
   padding: 20px;
   color: white;
   border: none;
   width: 250px;
-  font: size 16px;
+  font-size: 16px;
 }
 #red {
-
   background: red;
 }
-
 #blue {
-
   background: blue;
 }
